@@ -1,0 +1,8 @@
+.circled-button{
+    border: none;
+    background-color: transparent;
+    padding: 0;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+}
